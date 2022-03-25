@@ -1,1 +1,1 @@
-easy git instructions
+git commit tutorial
